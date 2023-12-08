@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&family=Space+Mono:wght@400;700&display=swap');
+
+*,
+html,
+body {
+  margin: 0;
+  padding: 0;
+  
+}
+
+.hero {
+  background: linear-gradient(124deg, #87c4ff 5.42%, #f587ff 91.79%);
+  min-height: 100vh;
+}
+
+
+
+
+
+.logo {
+  width: 50%;
+  padding-left: 120px;
+  font-family: 'Rock Salt', cursive;
+}
+.list {
+  width: 50%;
+  font-family: 'Space Mono', monospace;
+  
+  
+}
+.image {
+  width: 500px;
+  height: 500px;
+  margin-top: 60px;
+  
+}
+ div > h2 {
+  color: #4f514e;
+  font-family: 'Roboto Mono', monospace;
+
+
+  font-family: Roboto Mono;
+  font-size: 4.5rem;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin-top: 150px ;
+  margin-bottom: 20px;
+}
+.btn {
+    width: 293px;
+height: 58px;
+flex-shrink: 0;
+border-radius: 30px;
+background: #3A3A42;
+margin-top: 50px;
+text-decoration: bold;
+
+}
